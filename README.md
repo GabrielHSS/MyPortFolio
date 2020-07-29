@@ -1,2 +1,0 @@
-# portfolio-ghss
-My portfolio.
